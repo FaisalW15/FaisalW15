@@ -1,5 +1,12 @@
-## Hi there 👋
+Welcome to my Github profile
 
+My name is Faisal, and I'm a Computer Engineer based in Riyadh.
+
+I build and design all sorts of programming and electronics projects, some for fun and some for team projects.
+
+I'm currently working on a handful of robotics projects, and I'm trying to learn Computer Vision on the side.
+
+In the mean time, feel free to take a look at what I've worked on so far and don't hesitate to reach out.
 <!--
 **FaisalW15/FaisalW15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
