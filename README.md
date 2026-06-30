@@ -1,4 +1,4 @@
-Welcome to my Github profile
+# Welcome to my Github profile
 
 My name is Faisal, and I'm a Computer Engineer based in Riyadh.
 
